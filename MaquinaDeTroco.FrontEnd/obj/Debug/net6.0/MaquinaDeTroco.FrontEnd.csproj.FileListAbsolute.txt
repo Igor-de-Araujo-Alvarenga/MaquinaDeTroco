@@ -1,0 +1,57 @@
+C:\Users\DELL\source\repos\MaquinaDeTroco\MaquinaDeTroco.FrontEnd\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\DELL\source\repos\MaquinaDeTroco\MaquinaDeTroco.FrontEnd\bin\Debug\net6.0\appsettings.json
+C:\Users\DELL\source\repos\MaquinaDeTroco\MaquinaDeTroco.FrontEnd\bin\Debug\net6.0\MaquinaDeTroco.FrontEnd.staticwebassets.runtime.json
+C:\Users\DELL\source\repos\MaquinaDeTroco\MaquinaDeTroco.FrontEnd\bin\Debug\net6.0\MaquinaDeTroco.FrontEnd.exe
+C:\Users\DELL\source\repos\MaquinaDeTroco\MaquinaDeTroco.FrontEnd\bin\Debug\net6.0\MaquinaDeTroco.FrontEnd.deps.json
+C:\Users\DELL\source\repos\MaquinaDeTroco\MaquinaDeTroco.FrontEnd\bin\Debug\net6.0\MaquinaDeTroco.FrontEnd.runtimeconfig.json
+C:\Users\DELL\source\repos\MaquinaDeTroco\MaquinaDeTroco.FrontEnd\bin\Debug\net6.0\MaquinaDeTroco.FrontEnd.dll
+C:\Users\DELL\source\repos\MaquinaDeTroco\MaquinaDeTroco.FrontEnd\bin\Debug\net6.0\MaquinaDeTroco.FrontEnd.pdb
+C:\Users\DELL\source\repos\MaquinaDeTroco\MaquinaDeTroco.FrontEnd\obj\Debug\net6.0\MaquinaDeTroco.FrontEnd.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\MaquinaDeTroco\MaquinaDeTroco.FrontEnd\obj\Debug\net6.0\MaquinaDeTroco.FrontEnd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\MaquinaDeTroco\MaquinaDeTroco.FrontEnd\obj\Debug\net6.0\MaquinaDeTroco.FrontEnd.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\MaquinaDeTroco\MaquinaDeTroco.FrontEnd\obj\Debug\net6.0\MaquinaDeTroco.FrontEnd.AssemblyInfo.cs
+C:\Users\DELL\source\repos\MaquinaDeTroco\MaquinaDeTroco.FrontEnd\obj\Debug\net6.0\MaquinaDeTroco.FrontEnd.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\MaquinaDeTroco\MaquinaDeTroco.FrontEnd\obj\Debug\net6.0\MaquinaDeTroco.FrontEnd.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DELL\source\repos\MaquinaDeTroco\MaquinaDeTroco.FrontEnd\obj\Debug\net6.0\MaquinaDeTroco.FrontEnd.RazorAssemblyInfo.cache
+C:\Users\DELL\source\repos\MaquinaDeTroco\MaquinaDeTroco.FrontEnd\obj\Debug\net6.0\MaquinaDeTroco.FrontEnd.RazorAssemblyInfo.cs
+C:\Users\DELL\source\repos\MaquinaDeTroco\MaquinaDeTroco.FrontEnd\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\DELL\source\repos\MaquinaDeTroco\MaquinaDeTroco.FrontEnd\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\DELL\source\repos\MaquinaDeTroco\MaquinaDeTroco.FrontEnd\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\DELL\source\repos\MaquinaDeTroco\MaquinaDeTroco.FrontEnd\obj\Debug\net6.0\scopedcss\bundle\MaquinaDeTroco.FrontEnd.styles.css
+C:\Users\DELL\source\repos\MaquinaDeTroco\MaquinaDeTroco.FrontEnd\obj\Debug\net6.0\scopedcss\projectbundle\MaquinaDeTroco.FrontEnd.bundle.scp.css
+C:\Users\DELL\source\repos\MaquinaDeTroco\MaquinaDeTroco.FrontEnd\obj\Debug\net6.0\MaquinaDeTroco.FrontEnd.dll
+C:\Users\DELL\source\repos\MaquinaDeTroco\MaquinaDeTroco.FrontEnd\obj\Debug\net6.0\refint\MaquinaDeTroco.FrontEnd.dll
+C:\Users\DELL\source\repos\MaquinaDeTroco\MaquinaDeTroco.FrontEnd\obj\Debug\net6.0\MaquinaDeTroco.FrontEnd.pdb
+C:\Users\DELL\source\repos\MaquinaDeTroco\MaquinaDeTroco.FrontEnd\obj\Debug\net6.0\MaquinaDeTroco.FrontEnd.genruntimeconfig.cache
+C:\Users\DELL\source\repos\MaquinaDeTroco\MaquinaDeTroco.FrontEnd\obj\Debug\net6.0\ref\MaquinaDeTroco.FrontEnd.dll
+C:\Users\DELL\OneDrive\Área de Trabalho\MaquinaDeTroco\MaquinaDeTroco\MaquinaDeTroco.FrontEnd\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\DELL\OneDrive\Área de Trabalho\MaquinaDeTroco\MaquinaDeTroco\MaquinaDeTroco.FrontEnd\bin\Debug\net6.0\appsettings.json
+C:\Users\DELL\OneDrive\Área de Trabalho\MaquinaDeTroco\MaquinaDeTroco\MaquinaDeTroco.FrontEnd\bin\Debug\net6.0\MaquinaDeTroco.FrontEnd.staticwebassets.runtime.json
+C:\Users\DELL\OneDrive\Área de Trabalho\MaquinaDeTroco\MaquinaDeTroco\MaquinaDeTroco.FrontEnd\bin\Debug\net6.0\MaquinaDeTroco.FrontEnd.exe
+C:\Users\DELL\OneDrive\Área de Trabalho\MaquinaDeTroco\MaquinaDeTroco\MaquinaDeTroco.FrontEnd\bin\Debug\net6.0\MaquinaDeTroco.FrontEnd.deps.json
+C:\Users\DELL\OneDrive\Área de Trabalho\MaquinaDeTroco\MaquinaDeTroco\MaquinaDeTroco.FrontEnd\bin\Debug\net6.0\MaquinaDeTroco.FrontEnd.runtimeconfig.json
+C:\Users\DELL\OneDrive\Área de Trabalho\MaquinaDeTroco\MaquinaDeTroco\MaquinaDeTroco.FrontEnd\bin\Debug\net6.0\MaquinaDeTroco.FrontEnd.dll
+C:\Users\DELL\OneDrive\Área de Trabalho\MaquinaDeTroco\MaquinaDeTroco\MaquinaDeTroco.FrontEnd\bin\Debug\net6.0\MaquinaDeTroco.FrontEnd.pdb
+C:\Users\DELL\OneDrive\Área de Trabalho\MaquinaDeTroco\MaquinaDeTroco\MaquinaDeTroco.FrontEnd\obj\Debug\net6.0\MaquinaDeTroco.FrontEnd.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Área de Trabalho\MaquinaDeTroco\MaquinaDeTroco\MaquinaDeTroco.FrontEnd\obj\Debug\net6.0\MaquinaDeTroco.FrontEnd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive\Área de Trabalho\MaquinaDeTroco\MaquinaDeTroco\MaquinaDeTroco.FrontEnd\obj\Debug\net6.0\MaquinaDeTroco.FrontEnd.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\Área de Trabalho\MaquinaDeTroco\MaquinaDeTroco\MaquinaDeTroco.FrontEnd\obj\Debug\net6.0\MaquinaDeTroco.FrontEnd.AssemblyInfo.cs
+C:\Users\DELL\OneDrive\Área de Trabalho\MaquinaDeTroco\MaquinaDeTroco\MaquinaDeTroco.FrontEnd\obj\Debug\net6.0\MaquinaDeTroco.FrontEnd.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Área de Trabalho\MaquinaDeTroco\MaquinaDeTroco\MaquinaDeTroco.FrontEnd\obj\Debug\net6.0\MaquinaDeTroco.FrontEnd.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DELL\OneDrive\Área de Trabalho\MaquinaDeTroco\MaquinaDeTroco\MaquinaDeTroco.FrontEnd\obj\Debug\net6.0\MaquinaDeTroco.FrontEnd.RazorAssemblyInfo.cache
+C:\Users\DELL\OneDrive\Área de Trabalho\MaquinaDeTroco\MaquinaDeTroco\MaquinaDeTroco.FrontEnd\obj\Debug\net6.0\MaquinaDeTroco.FrontEnd.RazorAssemblyInfo.cs
+C:\Users\DELL\OneDrive\Área de Trabalho\MaquinaDeTroco\MaquinaDeTroco\MaquinaDeTroco.FrontEnd\obj\Debug\net6.0\staticwebassets\msbuild.MaquinaDeTroco.FrontEnd.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\DELL\OneDrive\Área de Trabalho\MaquinaDeTroco\MaquinaDeTroco\MaquinaDeTroco.FrontEnd\obj\Debug\net6.0\staticwebassets\msbuild.build.MaquinaDeTroco.FrontEnd.props
+C:\Users\DELL\OneDrive\Área de Trabalho\MaquinaDeTroco\MaquinaDeTroco\MaquinaDeTroco.FrontEnd\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MaquinaDeTroco.FrontEnd.props
+C:\Users\DELL\OneDrive\Área de Trabalho\MaquinaDeTroco\MaquinaDeTroco\MaquinaDeTroco.FrontEnd\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MaquinaDeTroco.FrontEnd.props
+C:\Users\DELL\OneDrive\Área de Trabalho\MaquinaDeTroco\MaquinaDeTroco\MaquinaDeTroco.FrontEnd\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\DELL\OneDrive\Área de Trabalho\MaquinaDeTroco\MaquinaDeTroco\MaquinaDeTroco.FrontEnd\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\DELL\OneDrive\Área de Trabalho\MaquinaDeTroco\MaquinaDeTroco\MaquinaDeTroco.FrontEnd\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\DELL\OneDrive\Área de Trabalho\MaquinaDeTroco\MaquinaDeTroco\MaquinaDeTroco.FrontEnd\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\DELL\OneDrive\Área de Trabalho\MaquinaDeTroco\MaquinaDeTroco\MaquinaDeTroco.FrontEnd\obj\Debug\net6.0\scopedcss\bundle\MaquinaDeTroco.FrontEnd.styles.css
+C:\Users\DELL\OneDrive\Área de Trabalho\MaquinaDeTroco\MaquinaDeTroco\MaquinaDeTroco.FrontEnd\obj\Debug\net6.0\scopedcss\projectbundle\MaquinaDeTroco.FrontEnd.bundle.scp.css
+C:\Users\DELL\OneDrive\Área de Trabalho\MaquinaDeTroco\MaquinaDeTroco\MaquinaDeTroco.FrontEnd\obj\Debug\net6.0\MaquinaDeTroco.FrontEnd.dll
+C:\Users\DELL\OneDrive\Área de Trabalho\MaquinaDeTroco\MaquinaDeTroco\MaquinaDeTroco.FrontEnd\obj\Debug\net6.0\refint\MaquinaDeTroco.FrontEnd.dll
+C:\Users\DELL\OneDrive\Área de Trabalho\MaquinaDeTroco\MaquinaDeTroco\MaquinaDeTroco.FrontEnd\obj\Debug\net6.0\MaquinaDeTroco.FrontEnd.pdb
+C:\Users\DELL\OneDrive\Área de Trabalho\MaquinaDeTroco\MaquinaDeTroco\MaquinaDeTroco.FrontEnd\obj\Debug\net6.0\MaquinaDeTroco.FrontEnd.genruntimeconfig.cache
+C:\Users\DELL\OneDrive\Área de Trabalho\MaquinaDeTroco\MaquinaDeTroco\MaquinaDeTroco.FrontEnd\obj\Debug\net6.0\ref\MaquinaDeTroco.FrontEnd.dll

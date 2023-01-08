@@ -1,0 +1,114 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+<!-- Button trigger modal Sangria -->
+<button type="button" class="btn btn-primary btn__sangria" data-bs-toggle="modal" data-bs-target="#sangriaModal">
+    Sangria
+</button>
+
+<!-- Modal Sangria -->
+<div class="modal fade" id="sangriaModal" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="sangriaModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="sangriaModalLabel">Sangria</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body modal__sangria">
+                ...
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Button trigger modal Inserir moedas -->
+<button type="button" class="btn btn-primary ml-5" data-bs-toggle="modal" data-bs-target="#insertModal">
+    Inserir moedas
+</button>
+
+<!-- Modal -->
+<div class="modal fade" id="insertModal" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="insertModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-scrollable">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="insertModalLabel">Inserir moedas</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body modal__insert">
+               <div class="input-group d-flex flex-column align-content-center">
+                    <span class="pr-5">
+                        Moeda de 1 Real
+                    </span>
+                    <span class="mr-5">Quantidades</span>
+                    <input class="input__quantity" type="number" min="0" value="0"  />
+                    <input type="hidden" class="input__money" value="1" />
+               </div>
+                <div class="input-group d-flex flex-column align-content-center">
+                    <span class="pr-5">
+                        Moeda de 50 Centavos
+                    </span>
+                    <span class="mr-5">Quantidades</span>
+                    <input class="input__quantity" type="number" min="0"  value="0" />
+                    <input type="hidden" class="input__money" value="0.5" />
+               </div>
+                <div class="input-group d-flex flex-column align-content-center">
+                    <span class="pr-5">
+                        Moeda de 25 Centavos
+                    </span>
+                    <span class="mr-5">Quantidades</span>
+                    <input class="input__quantity" type="number" min="0"  value="0" />
+                    <input type="hidden" class="input__money" value="0.25" />
+                </div>
+                <div class="input-group d-flex flex-column align-content-center">
+                    <span class="pr-5">
+                        Moeda de 10 Centavos
+                    </span>
+                    <span class="mr-5">Quantidades</span>
+                    <input class="input__quantity" type="number" min="0" value="0" />
+                    <input type="hidden" class="input__money" value="0.1" />
+                </div>
+                <div class="input-group d-flex flex-column align-content-center">
+                    <span class="pr-5">
+                        Moeda de 5 Centavos
+                    </span>
+                    <span class="mr-5">Quantidades</span>
+                    <input class="input__quantity" type="number" min="0" value="0" />
+                    <input type="hidden" class="input__money" value="0.05" />
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                <button type="button" class="btn btn-primary btn__insert">Inserir</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+    <div class="show__change mt-5 mb-5">
+
+    </div>
+
+    <div class="input-group mt-2">
+        <label>Valor de Entrada</label>
+    </div>
+    <div class="input-group mt-2">
+        <input type="text" class="input__inputMoney" placeholder="Valor pago" />
+    </div>
+    
+    <div class="input-group mt-4">
+        <label>Preço</label>
+    </div>
+     
+    <div class="input-group mt-2">
+        <input type="text" class="input__price" placeholder="Preço" />
+    </div>
+
+    <div class="input-group mt-3">
+        <button class="btn btn-primary generate__change">
+            Gerar Troco
+        </button>
+    </div>
+    

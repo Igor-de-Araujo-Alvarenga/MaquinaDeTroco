@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MaquinaDeTroco.Api", "MaquinaDeTroco\MaquinaDeTroco.Api.csproj", "{84535819-02D9-4F54-969E-4786BD1C8502}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MaquinaDeTroco.Domain", "MaquinaDeTroco.Domain", "{B7A72421-90FF-4FFE-B013-92C97081A27B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MaquinaDeTroco.Infrastructure", "MaquinaDeTroco.Infrastructure", "{860BF214-6BA9-4997-AD31-037007C1AC9B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Domain", "Domain\Domain.csproj", "{319CB0D3-8258-49EB-9ABA-0FADFC914805}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Infrastructure", "Infrastructure\Infrastructure.csproj", "{C30A54D5-9919-46E7-AADF-9E306ECDB5AC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MaquinaDeTroco.FrontEnd", "MaquinaDeTroco.FrontEnd\MaquinaDeTroco.FrontEnd.csproj", "{5058BD49-EDC5-4C7F-B97E-1E937D461768}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84535819-02D9-4F54-969E-4786BD1C8502}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84535819-02D9-4F54-969E-4786BD1C8502}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84535819-02D9-4F54-969E-4786BD1C8502}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84535819-02D9-4F54-969E-4786BD1C8502}.Release|Any CPU.Build.0 = Release|Any CPU
+		{319CB0D3-8258-49EB-9ABA-0FADFC914805}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{319CB0D3-8258-49EB-9ABA-0FADFC914805}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{319CB0D3-8258-49EB-9ABA-0FADFC914805}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{319CB0D3-8258-49EB-9ABA-0FADFC914805}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C30A54D5-9919-46E7-AADF-9E306ECDB5AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C30A54D5-9919-46E7-AADF-9E306ECDB5AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C30A54D5-9919-46E7-AADF-9E306ECDB5AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C30A54D5-9919-46E7-AADF-9E306ECDB5AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5058BD49-EDC5-4C7F-B97E-1E937D461768}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5058BD49-EDC5-4C7F-B97E-1E937D461768}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5058BD49-EDC5-4C7F-B97E-1E937D461768}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5058BD49-EDC5-4C7F-B97E-1E937D461768}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{319CB0D3-8258-49EB-9ABA-0FADFC914805} = {B7A72421-90FF-4FFE-B013-92C97081A27B}
+		{C30A54D5-9919-46E7-AADF-9E306ECDB5AC} = {860BF214-6BA9-4997-AD31-037007C1AC9B}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C402F5C4-2A96-4A30-A6C0-ED21277F5EF3}
+	EndGlobalSection
+EndGlobal
